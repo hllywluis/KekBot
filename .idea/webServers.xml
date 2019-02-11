@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="081f13a8-e226-4476-8e4a-bb74b77912f5" name="Topk - WebFaction" url="http://web539.webfaction.com">
+        <fileTransfer host="web539.webfaction.com" port="21" rootFolder="/home/hllywluis/webapps/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
